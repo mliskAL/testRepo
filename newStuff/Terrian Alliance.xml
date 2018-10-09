@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MajorFaction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="2bb6fe85-9b1e-4992-ba3f-3aa7cab54914" Author="Cyanocitta" Standard="false" Priority="0">
+  <Affinity Name="AffinityGameplayHoratio" />
+  <Trait Name="IsMajorFaction" />
+  <Trait Name="FactionTraitScientists1" />
+  <Trait Name="FactionTraitBrilliantStrategists1" />
+  <Trait Name="FactionTraitStartWithTitanium" />
+  <Trait Name="FactionTraitLegendaryHeroes1" />
+  <Trait Name="FactionTraitTechnologyDefinitionEconomyAndTrade1" />
+  <Trait Name="FactionTraitPerfectGenes1" />
+  <Trait Name="FactionTraitFastTraveler1" />
+  <Trait Name="FactionTraitHomePlanetPlanetTypeVeldt" />
+  <Trait Name="TraitCustomFaction" />
+  <TraitStartingSenate Name="" SubCategory="" Priority="100">
+    <Prerequisites />
+    <UnlockedAbstractShipDesigns />
+    <Government Name="GovernmentEmpire" />
+    <PoliticsWeight Politics="Politics01" Weight="1" />
+    <PoliticsWeight Politics="Politics02" Weight="0" />
+    <PoliticsWeight Politics="Politics03" Weight="0" />
+    <PoliticsWeight Politics="Politics04" Weight="2" />
+    <PoliticsWeight Politics="Politics05" Weight="0" />
+    <PoliticsWeight Politics="Politics06" Weight="0" />
+    <Cost>10</Cost>
+  </TraitStartingSenate>
+  <Bailiff Name="DefaultMoneyBailiff" />
+  <Bailiff Name="DefaultEmpirePointBailiff" />
+  <MajorPopulation Affinity="b282fa5f-bfa3-424e-bb18-f4010ec25db5" Count="2" />
+  <LocalizedDescription>The Terrians are a subsection of Humanity which, in their scentific pursuits, used genetics to create monsters from legends. Over time and much pains, these beings became accepted and valued within Terrian society. Since then, the Terrians have moved away from strict scientific motivations to preferring to finding ways to live with thier non-human neighbors. This attitude as served them well as it has made dealing with alien races much easier. Today, anyone who wishes it may become a member of the Alliance, as long as one is willing to obey the laws.</LocalizedDescription>
+  <LocalizedName>Terrian Alliance</LocalizedName>
+</MajorFaction>
