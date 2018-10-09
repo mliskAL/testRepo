@@ -1,6 +1,6 @@
 This text document has some important data descriptions. 
 
 forestClassesByCountry.R - 
-shp2kml.R - 
+shp2kml.R - Transform a shapefile into a Google KML.
 webScraping.R - 
 

@@ -1,6 +1,7 @@
 ##test web scraping
 library(rvest)
 library(pbapply)
+library(raster)
 
 url <- 'https://www.feedipedia.org/content/feeds?category=15967'
 #url <- 'https://www.feedipedia.org/content/feeds?category=13587&name=&common-name=&species=All&synonym=&status=All'
