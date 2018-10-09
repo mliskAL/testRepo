@@ -2,3 +2,6 @@
 
 library(rgdal)
 library(raster)
+
+
+hhh <- raster(filename)
